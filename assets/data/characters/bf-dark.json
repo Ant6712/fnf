@@ -2,63 +2,63 @@
   "version": "1.0.0",
   "name": "Boyfriend (Dark)",
   "renderType": "multisparrow",
-  "assetPath": "characters/bf_dark",
+  "assetPath": "characters/skinwhite",
   "flipX": true,
   "healthIcon": {
     "id": "bf",
     "flipX": false
   },
-  "singTime": 8.0,
+  "singTime": 4.5,
   "animations": [
     {
       "name": "idle",
       "prefix": "BF idle dance",
-      "offsets": [-5, 0]
+      "offsets": [-5, 120]
     },
     {
       "name": "singLEFT",
       "prefix": "BF NOTE LEFT0",
-      "offsets": [12, -6]
+      "offsets": [-16, 112]
     },
     {
       "name": "singDOWN",
       "prefix": "BF NOTE DOWN0",
-      "offsets": [-10, -50]
+      "offsets": [-7, 86]
     },
     {
       "name": "singUP",
       "prefix": "BF NOTE UP0",
-      "offsets": [-29, 27]
+      "offsets": [-48, 105]
     },
     {
       "name": "singRIGHT",
       "prefix": "BF NOTE RIGHT0",
-      "offsets": [-38, -7]
+      "offsets": [-51, 114]
     },
     {
       "name": "singLEFTmiss",
       "prefix": "BF NOTE LEFT MISS",
-      "offsets": [12, 24]
+      "offsets": [-6, 160]
     },
     {
       "name": "singDOWNmiss",
       "prefix": "BF NOTE DOWN MISS",
-      "offsets": [-11, -19]
+      "offsets": [-6, 161]
     },
     {
       "name": "singUPmiss",
       "prefix": "BF NOTE UP MISS",
-      "offsets": [-29, 27]
+      "offsets": [-5, 161]
     },
     {
       "name": "singRIGHTmiss",
       "prefix": "BF NOTE RIGHT MISS",
-      "offsets": [-30, 21]
+      "offsets": [-5, 161]
     },
     {
       "name": "hey",
       "prefix": "BF HEY!!",
-      "offsets": [7, 4]
+      "offsets": [-3, 117]
     },
     {
       "name": "scared",
